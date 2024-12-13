@@ -1,0 +1,2 @@
+TrueFalseQuestion: Is 2 + 2 = 4?
+ChooseOneQuestion: Which is the capital of France?
